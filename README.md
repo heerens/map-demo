@@ -1,5 +1,12 @@
 # map-demo by Alexander Heerens
 
+
+{::nomarkdown}
+
+LALALALALALALALAA
+
+{:/}
+
 ## Thoughts and Ideas
 
 * Because there is not a lot of UI changes (fades etc) but many information to display and change I selected AngularJS for a clear separation of the view and the business logic. Also the binding of data between the view and the model can be archived in a simple way compared to jQuery.
