@@ -1,16 +1,11 @@
 # map-demo by Alexander Heerens
 
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Title")
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-
 TEST:
 
 [![alt text][logo-ref]][link-ref]
 
-[logo-ref]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-[link-ref]: https://www.mozilla.org
+[logo-ref]: https://www.google.de/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png "Logo Title Text"
+[link-ref]: https://www.google.de
 
 ## Thoughts and Ideas
 
