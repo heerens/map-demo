@@ -1,13 +1,14 @@
 # map-demo by Alexander Heerens
 
 
-{::nomarkdown}
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Title")
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-<iframe height="200" width="200" src="https://www.w3schools.com"></iframe>
 
-{:/}
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Title")
+[![alt text][logo]](https://www.google.com "Google's Homepage")
 
-<iframe height="200" width="200" src="https://www.w3schools.com"></iframe>
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ## Thoughts and Ideas
 
