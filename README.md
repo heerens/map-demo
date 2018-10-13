@@ -5,10 +5,12 @@
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Title")
-[![alt text][logo]](https://www.google.com "Google's Homepage")
+TEST:
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[![alt text][logo-ref]][link-ref]
+
+[logo-ref]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[link-ref]: https://www.mozilla.org
 
 ## Thoughts and Ideas
 
